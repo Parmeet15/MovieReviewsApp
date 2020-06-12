@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+    
+
+    body {
+      font-family: 'Titillium Web', sans-serif
+    }
+    .h2 {
+      text-shadow: 2px 2px;
+      font-family: Impact;
+      font-weight: 700;
+    }
+    .subheading {
+      font-weight: 300;
+    }
+
+  }
